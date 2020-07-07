@@ -1,6 +1,6 @@
 # budgetTrackerHW18-
 
-![Image description](https://github.com/jherd801/budgetTrackerHQ18-/blob/master/assets/budgetTracker.png)
+![Image description](https://github.com/jherd801/budgetTrackerHW18-/blob/master/assets/budgetTracker.png)
 
 # Description:
 This application is allows users to track financial transactions over time to provide constant visibility of the remaining balance in the users account. Functionality has been added to allow users to enter transactions even when their device is not connected to any network, and will automatically sync once the device reconnects.
